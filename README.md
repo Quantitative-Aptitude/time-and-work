@@ -1,2 +1,1 @@
-# TIME AND WORK
 * SE-001
